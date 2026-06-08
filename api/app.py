@@ -8,10 +8,12 @@ def chat(question: str = "hello"):
     with open("data/company_policy.txt", "r") as file:
         policies = file.readlines()
 
-    answer = "Sorry, I could not find information about that."
+    q = question.lower()
+
+    answer = "Sorry, I do not have information about that."
 
     for line in policies:
-        if question.lower() in line.lower():
+        if q in line.lower():
             answer = line.strip()
             break
 

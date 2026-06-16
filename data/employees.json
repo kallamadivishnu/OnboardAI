@@ -1,0 +1,10 @@
+[
+    {
+        "employee_id": "EMP001",
+        "name": "vishnu",
+        "email": "kallamadivishnu@gmail.com",
+        "department": "ai engineering",
+        "role": "ai developer",
+        "joining_date": "2026-06-03"
+    }
+]

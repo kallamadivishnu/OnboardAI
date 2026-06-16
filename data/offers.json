@@ -1,0 +1,11 @@
+[
+    {
+        "offer_id": "OFR001",
+        "candidate": "jagan",
+        "position": "ai engineer",
+        "salary": 100000,
+        "status": "Generated",
+        "letter": "OFFER LETTER\n\nDate: 15/06/2026\n\nTo,\njagan\nchikkaballapur\n\nSubject: Offer of Employment\n\nDear jagan,\n\nWe are pleased to offer you the position of ai engineer at OnboardAI HRMS.\n\nEMPLOYMENT DETAILS\nEmployee Name      : jagan\nDesignation        : ai engineer\nDepartment         : cse\nReporting Manager  : vishnu\nWork Location      : bangalore\nJoining Date       : 15/06/2026\nEmployment Type    : Full-Time\n\nCOMPENSATION\nYour annual Cost to Company (CTC) will be INR 100000 (Rupees ten lakhs only Only) per annum.\n\nPROBATION\nYou will be on probation for 3 months. Confirmation will follow satisfactory completion.\n\nWORKING HOURS\nStandard working hours and leave entitlements as per company policy.\n\nCONFIDENTIALITY\nYou must maintain confidentiality of all company information during and after employment.\n\nTERMINATION\nEither party may terminate employment with 30 days notice or salary in lieu thereof.\n\nWe are delighted to welcome you to OnboardAI HRMS and look forward to a successful professional relationship.\n\nSincerely,\nHR Department\nOnboardAI HRMS",
+        "pdf_path": "generated_offers/OFR001_jagan.pdf"
+    }
+]

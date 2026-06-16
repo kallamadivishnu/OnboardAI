@@ -1,0 +1,16 @@
+{
+  "Software Engineer": {
+    "accounts": ["Email", "GitHub", "Slack"],
+    "cloud_access": ["AWS Sandbox"],
+    "tools": ["VS Code", "Python SDK"],
+    "training": ["Python Basics", "Git Workflow"],
+    "storage": ["OneDrive Folder"]
+  },
+  "Data Scientist": {
+    "accounts": ["Email", "GitHub"],
+    "cloud_access": ["Azure ML Workspace"],
+    "tools": ["Jupyter Notebook", "Python SDK"],
+    "training": ["Machine Learning Basics"],
+    "storage": ["Google Drive Folder"]
+  }
+}

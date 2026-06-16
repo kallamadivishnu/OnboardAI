@@ -1,0 +1,14 @@
+[
+    {
+        "employee": "vishnu",
+        "salary": 30000,
+        "month": "June 2026",
+        "status": "Pending"
+    },
+    {
+        "employee": "vishnu",
+        "salary": 30000,
+        "month": "June 2026",
+        "status": "Paid"
+    }
+]
